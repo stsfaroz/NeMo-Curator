@@ -151,3 +151,5 @@ data/
 
 # Text Editor / IDE Files
 .vscode
+
+.DS_Store

@@ -41,18 +41,7 @@ Text Curation
    :maxdepth: 4
    :titlesonly:
 
-
-   download.rst
-   documentdataset.rst
-   cpuvsgpu.rst
-   qualityfiltering.rst
-   languageidentificationunicodeformatting.rst
-   gpudeduplication.rst
-   semdedup.rst
-   syntheticdata.rst
-   taskdecontamination.rst
-   personalidentifiableinformationidentificationandremoval.rst
-   distributeddataclassification.rst
+   text/index.rst
 
 -------------------
 Image Curation
@@ -77,10 +66,7 @@ Image Curation
    :maxdepth: 4
    :titlesonly:
 
-   image/gettingstarted.rst
-   image/datasets.rst
-   image/classifiers/index.rst
-   semdedup.rst
+   image/index.rst
 
 
 -------------------
@@ -110,8 +96,4 @@ Reference
    :titlesonly:
 
 
-   kubernetescurator.rst
-   sparkother.rst
-   bestpractices.rst
-   nextsteps.rst
-   api/index.rst
+   reference/index.rst
